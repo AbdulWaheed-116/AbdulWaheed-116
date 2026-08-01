@@ -71,6 +71,3 @@ Driven by the discipline of a scholar and the curiosity of a lifelong learner, I
 <p align="center">
   <i>"In mathematics, you don't understand things. You just get used to them." — John von Neumann</i>
 </p>
-
-- ⚡ Fun fact: ...
--->
