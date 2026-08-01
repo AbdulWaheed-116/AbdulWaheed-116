@@ -54,7 +54,7 @@ Driven by the discipline of a scholar and the curiosity of a lifelong learner, I
 - Processed **10,000+ unstructured patient reviews** using VADER Sentiment Analysis.
 - Engineered relational MySQL schema and built an interactive Power BI Executive Dashboard identifying hospital operational bottlenecks.
 
-### 📊 [Student Performance & Outcomes Prediction](https://github.com/AbdulWaheed-116/Student-Performance-Prediction)
+### 📊 [Student Performance & Outcomes Prediction](https://github.com/AbdulWaheed-116/ML-Student-Outcome-Predictor).
 *Python • Exploratory Data Analysis • Scikit-Learn*
 - Developed an end-to-end supervised machine learning pipeline predicting at-risk students based on demographic & academic indicators.
 
