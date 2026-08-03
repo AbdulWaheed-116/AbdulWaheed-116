@@ -26,7 +26,7 @@ Driven by the discipline of a scholar and the curiosity of a lifelong learner, I
 - 🎖️ **GATE 2025 (Graduate Aptitude Test in Engineering):** Secured All India Rank **AIR 1668** *(Mathematics)*
 - 🎖️ **IIT JAM 2025 (Joint Admission Test for M.Sc.):** Secured All India Rank **AIR 1567** *(Mathematics)*
 - 📜 **Google & Kaggle Certified:** 5-Day Intensive AI Agents & Vibe Coding Specialist (Google ADK, MCP Protocol)
-- 🎓 **B.Sc. Mathematics:** J.N.M. Post Graduate College *(Graduating June 2025)*
+- 🎓 **B.Sc. Mathematics:** J.N.M. Post Graduate College *(Graduated 2025)*
 
 ---
 
