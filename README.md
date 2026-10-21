@@ -13,9 +13,9 @@
 
 ## 🔮 Philosophy & Vision
 
-Rooted in mathematics, I explore the harmony between logic, data, and intelligent systems. While my foundation lies in pure mathematical rigor, I focus on transforming theoretical insight into practical innovation across **Data Analytics, Machine Learning, RAG (Retrieval Augmented Generation), and Agentic AI Workflows**.
+Rooted in Mathematics, I blend logic and data to design intelligent systems. While my foundation is grounded in the purity of mathematical sciences, my primary interest is in applying knowledge to practice in the realms of Data Analytics, Machine Learning, RAG (Retrieval Augmented Generation) and Agentic AI Workflows.
 
-Driven by the discipline of a scholar and the curiosity of a lifelong learner, I build data pipelines and computational models designed to solve complex real-world operational challenges.
+Fuelled by the thirst for knowledge and the desire to master the field, I build data pipelines and models which help solve real-life operational problems.
 
 > *"You know my methods. Apply them!"*
 
